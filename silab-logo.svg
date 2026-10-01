@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SILAB">
+  <defs>
+    <linearGradient id="silab-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <radialGradient id="silab-glow" cx="0.5" cy="0.55" r="0.6">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.34"/>
+      <stop offset="70%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="silab-stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#silab-bg)"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#silab-glow)"/>
+  <!-- A lab flask holding a tiny network: three routers, three links.
+       SecuryTik Interactive Laboratory — where networks are built to be broken and fixed. -->
+  <g fill="none" stroke="url(#silab-stroke)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 12 h12"/>
+    <path d="M28.5 12 v12 L15.5 46.5 a3.6 3.6 0 0 0 3.1 5.5 h26.8 a3.6 3.6 0 0 0 3.1 -5.5 L35.5 24 V12"/>
+    <path d="M25 44.5 L32 35 L39 44.5 Z" stroke-width="2.2" opacity="0.9"/>
+  </g>
+  <g fill="#0b1220" stroke="url(#silab-stroke)" stroke-width="2.4">
+    <circle cx="32" cy="35" r="3.3"/>
+    <circle cx="25" cy="44.5" r="3.3"/>
+    <circle cx="39" cy="44.5" r="3.3"/>
+  </g>
+</svg>

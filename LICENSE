@@ -1,0 +1,23 @@
+SILAB — SecuryTik Interactive Laboratory
+Copyright (c) 2026 SecuryTik. All rights reserved.
+
+This software is proprietary. It is licensed, not sold. SecuryTik grants you a
+non-exclusive, non-transferable licence to install and use the released,
+compiled SILAB on machines you control, for training and lab work.
+
+You may not copy, modify, decompile, disassemble or reverse engineer SILAB, or
+redistribute, sublicense, rent or sell it or any part of it, except as the law
+explicitly permits despite this restriction, or with SecuryTik's written
+permission.
+
+SILAB downloads MikroTik RouterOS (CHR) images from MikroTik under MikroTik's
+own terms; they are not part of SILAB and are not covered by this licence.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL SECURYTIK BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Contact: silab@securytik.com · https://silab.securytik.com
